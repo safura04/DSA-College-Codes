@@ -1,1 +1,2 @@
 # DSA-College-Codes
+This repository contains C and C++ programs for Data Structures and Algorithms (DSA) practicals, developed using Code::Blocks. It covers Stack, Queue, Singly Linked List, Binary Tree Traversals, Binary Search Trees, DFS, BFS, Minimum Spanning Tree using Kruskal's Algorithm, and Hash Tables using Linear Probing. These programs are intended for practical learning, implementation, and lab exam preparation.
